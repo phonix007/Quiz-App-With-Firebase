@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "481297984975",
+    "project_id": "msbte-exam-preparation",
+    "storage_bucket": "msbte-exam-preparation.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:481297984975:android:f3d6eca19abf67773cf6ba",
+        "android_client_info": {
+          "package_name": "com.od.msbte_exam_pre"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "481297984975-stjfc3jttr41u90k3ftlp730bh2qbdc9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5_3TcKyEtdR8QRshx0kv0mUFDRf0pNZ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "481297984975-stjfc3jttr41u90k3ftlp730bh2qbdc9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
