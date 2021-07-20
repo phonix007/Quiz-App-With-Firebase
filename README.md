@@ -38,3 +38,9 @@ https://user-images.githubusercontent.com/86926053/126259225-0a2aa0b9-f596-4ac5-
 
 # Release
 To download the app checkout the  playstore link that is https://play.google.com/store/apps/details?id=com.od.msbte_exam_pre
+ <br>
+ <div>
+ Currently, My App is under Review on Google Play Store But till that you can download it From Drive <br><br>
+Download From Drive https://drive.google.com/file/d/1TIfmgR2V4kAs7Ei_ua-DQ2cKt1N3xUmH/view?usp=sharing
+  
+  </div>
