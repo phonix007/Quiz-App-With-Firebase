@@ -44,3 +44,11 @@ To download the app checkout the  playstore link that is https://play.google.com
 Download From Drive https://drive.google.com/file/d/1TIfmgR2V4kAs7Ei_ua-DQ2cKt1N3xUmH/view?usp=sharing
   
   </div>
+
+  <div>
+   # One Issue On App after Downloading From play may it not work 
+     https://issuetracker.google.com/issues/135865273?pli=1
+   
+   # solution Download Singed Apk 
+   
+   </div>
