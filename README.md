@@ -41,7 +41,6 @@ To download the app checkout the  playstore link that is https://play.google.com
  <br>
  <div>
  Currently, My App is under Review on Google Play Store But till that you can download it From Drive <br><br>
-Download From Drive https://drive.google.com/file/d/1TIfmgR2V4kAs7Ei_ua-DQ2cKt1N3xUmH/view?usp=sharing
   
   </div>
 
@@ -51,7 +50,7 @@ Download From Drive https://drive.google.com/file/d/1TIfmgR2V4kAs7Ei_ua-DQ2cKt1N
    
    <br>
    
-   # solution Download Singed Apk <br>
+   # Solution Download Singed Apk <br>
    https://drive.google.com/file/d/1TZr5aQI6O3tjZdScbQ1PJt-DJ_SOswZV/view?usp=drivesdk
    
    </div>
