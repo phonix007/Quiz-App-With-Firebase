@@ -46,9 +46,12 @@ Download From Drive https://drive.google.com/file/d/1TIfmgR2V4kAs7Ei_ua-DQ2cKt1N
   </div>
 
   <div>
-   # One Issue On App after Downloading From play may it not work 
+   # One Issue On App after Downloading From play may it not work   
      https://issuetracker.google.com/issues/135865273?pli=1
    
-   # solution Download Singed Apk 
+   <br>
+   
+   # solution Download Singed Apk <br>
+   https://drive.google.com/file/d/1TZr5aQI6O3tjZdScbQ1PJt-DJ_SOswZV/view?usp=drivesdk
    
    </div>
