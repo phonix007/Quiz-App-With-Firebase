@@ -39,18 +39,4 @@ https://user-images.githubusercontent.com/86926053/126259225-0a2aa0b9-f596-4ac5-
 # Release
 To download the app checkout the  playstore link that is https://play.google.com/store/apps/details?id=com.od.msbte_exam_pre
  <br>
- <div>
- Currently, My App is under Review on Google Play Store But till that you can download it From Drive <br><br>
-  
-  </div>
-
-  <div>
-   # One Issue On App after Downloading From play may it not work   
-     https://issuetracker.google.com/issues/135865273?pli=1
-   
-   <br>
-   
-   # Solution Download Singed Apk <br>
-   https://drive.google.com/file/d/1TZr5aQI6O3tjZdScbQ1PJt-DJ_SOswZV/view?usp=drivesdk
-   
-   </div>
+ 
